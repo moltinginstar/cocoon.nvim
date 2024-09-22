@@ -7,7 +7,7 @@ My personal collection of Neovim plugins.
 1. Clone the repository into your Neovim configuration directory:
   
    ```sh
-   git clone https://github.com/moltinginstar/cocoon.nvim ~/.config/nvim/pack/cocoon/start/cocoon.nvim
+   git clone https://github.com/moltinginstar/cocoon.nvim ~/.config/nvim/pack/moltinginstar/start/cocoon.nvim
    ```
 
 2. Add the following line to your `init.lua` file for each plugin you want to enable:
