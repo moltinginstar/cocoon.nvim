@@ -18,7 +18,7 @@ My personal collection of Neovim plugins.
 
 ## Plugins
 
-- [`multishift`](lua/cocoon/multishift.lua): Multilevel indentation in normal mode.
+- [`multishift`](readmes/multishift.md): Multilevel indentation in normal mode.
 
 ## License
 
